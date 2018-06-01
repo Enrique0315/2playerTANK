@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2playerTANK.data.unityweb",
+"asmCodeUrl": "2playerTANK.asm.code.unityweb",
+"asmMemoryUrl": "2playerTANK.asm.memory.unityweb",
+"asmFrameworkUrl": "2playerTANK.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
